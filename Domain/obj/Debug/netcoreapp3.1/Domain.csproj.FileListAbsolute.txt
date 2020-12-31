@@ -1,0 +1,23 @@
+D:\DDD2020\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\DDD2020\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\DDD2020\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\DDD2020\Presentation\Domain\bin\Debug\netcoreapp3.1\Entities.dll
+D:\DDD2020\Presentation\Domain\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\DDD2020\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

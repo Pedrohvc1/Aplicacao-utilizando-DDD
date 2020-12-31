@@ -1,0 +1,17 @@
+D:\DDD2020\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\DDD2020\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\DDD2020\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\DDD2020\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\DDD2020\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\DDD2020\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\DDD2020\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\DDD2020\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\ADS\Digital Inovation One\Desenvolvendo sua aplicação com C# usando DDD\Presentation\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
